@@ -1,0 +1,8 @@
+PhoneNumber,CompanyName,Notes
++91 9876543210,Tresata Pvt Ltd,Random text
+(080) 1234-5678,First National Bank,Another entry
++1-202-555-0182,Enno Roggemann GmbH & Co. KG,Example row
+4853859590,Debrunner Acifer AG,More text
++44 20 2832 3322,,Missing company
+,Some Random Value,Only company present
+1234567,,Short phone-like
